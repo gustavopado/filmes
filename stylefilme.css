@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(61, 113, 253);
+    text-align: center;
+}
+
+.titulo{
+    color: aliceblue;
+    text-shadow: 1px 1px black;    
+}
+
+.tabela{
+    margin: 0 auto;
+    border-collapse: 0;
+    margin-bottom: 50px;
+}
+
+th,td{
+    border: 2px solid black;
+    padding: 15px;
+}
